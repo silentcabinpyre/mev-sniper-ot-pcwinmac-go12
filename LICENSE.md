@@ -1,4 +1,4 @@
-# 
+# Exclusive MEV sniper bot extensions for Mac OS | Best MEV sniper bot extensions for PC Windows. Featuring revert handling and gas price optimization — optimized for maximum performance on every platform.
 
 
 
